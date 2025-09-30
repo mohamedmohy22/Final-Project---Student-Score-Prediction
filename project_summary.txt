@@ -1,0 +1,14 @@
+
+Final Project - Student Performance Prediction
+
+In this project, I analyzed student data to predict their final exam scores.
+I handled missing values, transformed categorical variables, and visualized
+key patterns such as the distribution of scores and the relationship between
+study hours and exam results.
+
+After splitting the dataset (80/20) and training a Linear Regression model,
+the evaluation showed:
+- MSE = 6.80
+- R² = 84.01
+
+This means the model explains about 8401.3% of the variance in exam scores.
